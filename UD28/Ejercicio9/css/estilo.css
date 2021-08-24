@@ -1,0 +1,58 @@
+h1{
+    color: coral;
+    text-align: center;
+}
+.titulo{
+    color:forestgreen
+}
+h2{
+    color:forestgreen;
+    text-decoration: underline;
+    margin: 20px;
+}
+h3{
+    color: coral;
+    margin: 20px;
+}
+.hijo{
+    border-style: solid;
+    border-width: 1px;
+    border-color: slategray;
+    display: inline-block;
+    margin-top: 0px;
+    width: 900px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    display: flex;
+}
+p{
+    margin: 20px;
+}
+ul{
+    list-style: none;
+}
+li{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color:slategray;
+    color:rgb(39, 39, 39);
+    text-align: center;
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 15px;
+    background-color:palegreen;
+}
+a{
+    text-decoration: none;
+}
+li:hover{
+    background-color: sienna;
+}
+.actual{
+    background-color: salmon;
+    color:black;
+}

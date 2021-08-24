@@ -1,0 +1,36 @@
+h1{
+    color: coral;
+    text-align: center;
+}
+.titulo{
+    color:forestgreen
+}
+h2{
+    color:forestgreen;
+    text-decoration: underline;
+    margin: 20px;
+}
+h3{
+    color: coral;
+    margin: 20px;
+}
+.hijo{
+    border-style: solid;
+    border-width: 1px;
+    border-color: forestgreen;
+    display: inline-block;
+    margin-top: 0px;
+    width: 900px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    display: flex;
+}
+p{
+    margin: 20px;
+}
+ul{
+    list-style: none;
+}
